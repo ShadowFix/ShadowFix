@@ -1,7 +1,7 @@
 ### TCP-HANDLER
 
 # Download
-[Windows Download](https://github.com/ShadowFix/ShadowFix/releases/download/ShadowFix/ShadowFix.exe)
+[PC Download](https://github.com/ShadowFix/ShadowFix/releases/download/ShadowFix/ShadowFix.exe)
 
 [Android Download](https://www.mediafire.com/file/og2dleqv92ow1hx/ShadowFix.apk/file)
 
